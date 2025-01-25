@@ -1,4 +1,4 @@
-$ git cd {C:\project\Prototype2\Assets\Script}
+# git cd {C:\project\Prototype2\Assets\Script}
 $ git init
 $ git add .
 $ git commit -m "first commit"
