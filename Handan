@@ -1,6 +1,0 @@
-# git cd {C:\project\Prototype2\Assets\Script}
-$ git init
-$ git add .
-$ git commit -m "first commit"
-$ git　remote add origin https://~~~~
-$ git push -u origin master 
